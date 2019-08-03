@@ -1,6 +1,6 @@
 # Employee Database: A Mystery in Two Parts
 
-![sql.png](EmployeeDatabase/sql.png)
+![sql.png](sql.png)
 
 ## Background
 
@@ -20,7 +20,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
-![Employee_Database_ERD.png](EmployeeDatabase/Employee_Database_ERD.png)
+![Employee_Database_ERD.png](Employee_Database_ERD.png)
 
 #### Data Engineering
 
